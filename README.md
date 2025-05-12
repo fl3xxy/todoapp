@@ -1,4 +1,4 @@
-📝 FastAPI TodoApp -> http://3.253.68.120/docs
+📝 FastAPI TodoApp
 A fully functional backend API for a Todo List application built with FastAPI and SQLAlchemy.
 The app supports user registration, JWT-based authentication, todo management, and admin access to all user data.
 
